@@ -1,4 +1,3 @@
-# Wayland-Webiste
-The website I made for the wayland discord bot by SimplyMagix.
+Made By TranslucencyMC
 
-So yah I made the webisteif you have any questions contact me @ The Penguin#1546
+Forked from The Penguin's "Wayland" website
